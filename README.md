@@ -2,6 +2,8 @@
 
 Repositório monorepo para o projeto MindTech — contém frontend, backend e scripts/infra do banco de dados. Abaixo está a árvore do projeto e explicações detalhadas de cada parte, como configurar, executar e boas práticas.
 
+
+
 ## Estrutura (árvore)
 
 mindtech/
@@ -27,6 +29,8 @@ mindtech/
 ├── .gitignore
 ├── README.md
 └── LICENSE
+
+
 
 ---
 
