@@ -79,7 +79,7 @@ Coloque valores de exemplo em .env.example e NÃO comite .env real.
 ## Setup local (passo a passo)
 
 1. Clonar repositório
-   - cd /home/guilherme002/Documentos
+   - cd <SEU_DIRETORIO>
    - git clone <URL_DO_REPO> mindtech
    - cd mindtech
 
